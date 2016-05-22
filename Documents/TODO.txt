@@ -1,0 +1,5 @@
+Goals
+
+1. Share food images on site / app and fb app / twitter,
+2. Location aware shares
+3. 
